@@ -36,6 +36,7 @@ Thanks!
 | .            | self                              |
 | __           | __magic__                         |
 | ifmain       | if __name__ == "__main__"         |
+| doc          | """ """                           |
 
 ### Comprehensions
 
